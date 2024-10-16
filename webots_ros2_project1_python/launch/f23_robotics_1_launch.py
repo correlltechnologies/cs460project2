@@ -32,7 +32,7 @@ from webots_ros2_driver.wait_for_controller_connection import WaitForControllerC
 
 
 def generate_launch_description():
-    package_dir = get_package_share_directory('webots_ros2_homework1_python')
+    package_dir = get_package_share_directory('webots_ros2_project1_python')
     world = LaunchConfiguration('world')
     mode = LaunchConfiguration('mode')
     use_sim_time = LaunchConfiguration('use_sim_time', default=True)
@@ -98,8 +98,6 @@ def generate_launch_description():
         target_driver=turtlebot_driver,
         nodes_to_start= ros_control_spawners
     )
-
-
 
     return LaunchDescription([
         DeclareLaunchArgument(
