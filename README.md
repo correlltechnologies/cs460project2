@@ -19,3 +19,4 @@ Added toggle for lighting and doors
 
 # TO RUN THE PACKAGE
 Check the README.md file in webots_ros2_project1_python
+If it is too laggy to explore the map in Webots, the obj file is included in the /worlds/objects/ folder
