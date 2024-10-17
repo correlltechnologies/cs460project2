@@ -46,9 +46,14 @@ Solid {
       ]
     }
   ]
-  physics Physics {
+  boundingObject Box {  # Simplified bounding box for collision
+    size 10 0.1 10      
   }
-  locked TRUE
+  physics Physics {
+    density -1
+    gravityMode FALSE
+  }
+  locked TRUE  # makes object static
 }
 CeilingLight {
   translation 16.26 -1.51 3.4
