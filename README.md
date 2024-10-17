@@ -17,3 +17,5 @@ Added lighting
 # What has not yet been completed
 Added toggle for lighting and doors
 
+# TO RUN THE PACKAGE
+Check the README.md file in webots_ros2_project1_python
