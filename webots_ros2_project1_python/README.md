@@ -33,6 +33,13 @@ cd cs460project1
 colcon build
 </pre>
 
+You may need to unset variables if you already have a build for another project
+<pre>
+unset COLCON_PREFIX_PATH
+unset CMAKE_PREFIX_PATH
+unset AMENT_PREFIX_PATH
+</pre>
+
 5. Set up variables to use the package you just created
 <pre>
 source install/setup.bash
