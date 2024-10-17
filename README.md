@@ -1,6 +1,6 @@
 # cs460project1
 Project 1 - Indoor Simulated Environment in Webots
-![Floor Plan](./hewson_first_floor.png)
+![Floor Plan](./hewson-mapped.png)
 # Hewson Hall First Floor
 ## The University of Alabama - Main Campus
 -29,690 sf\
