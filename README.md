@@ -10,9 +10,9 @@ Project 1 - Indoor Simulated Environment in Webots
 -I.T. suite
 
 # Requirements
-Mapped 29,690 sf (First floor)
-Furnished entire map
-Added lighting
+Mapped 29,690 sf (First floor)\
+Furnished entire map\
+Added lighting\
 
 # What has not yet been completed
 Added toggle for lighting and doors
