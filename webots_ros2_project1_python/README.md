@@ -27,7 +27,7 @@ export WEBOTS_HOME=/mnt/c/Program\ Files/Webots
 git clone <your github url for this repository>
 </pre>
 
-4. Make the package (for python, it really just installs the files
+4. Make the package (for python, it really just installs the files)
 <pre>
 cd cs460project1
 colcon build
