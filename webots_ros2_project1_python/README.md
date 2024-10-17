@@ -29,7 +29,7 @@ git clone <your github url for this repository>
 
 4. Make the package (for python, it really just installs the files
 <pre>
-cd f24_robotics
+cd cs460project1
 colcon build
 </pre>
 
