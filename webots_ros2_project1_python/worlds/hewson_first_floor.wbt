@@ -49,9 +49,6 @@ Solid {
   boundingObject Mesh {  # Simplified bounding box for collision
     url "https://raw.githubusercontent.com/correlltechnologies/cs460project1/refs/heads/main/webots_ros2_project1_python/worlds/objects/hewson.obj"
   }
-  physics Physics {
-    density -1
-  }
   locked TRUE  # makes object static
 }
 CeilingLight {
