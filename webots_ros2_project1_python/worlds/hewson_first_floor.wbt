@@ -46,8 +46,8 @@ Solid {
       ]
     }
   ]
-  boundingObject Box {  # Simplified bounding box for collision
-    size 10 0.1 10      
+  boundingObject Mesh {  # Simplified bounding box for collision
+    url "https://raw.githubusercontent.com/correlltechnologies/cs460project1/refs/heads/main/webots_ros2_project1_python/worlds/objects/hewson.obj"
   }
   physics Physics {
     density -1
