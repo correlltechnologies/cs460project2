@@ -42,7 +42,7 @@ Solid {
   children [
     CadShape {
       url [
-        "C:/Users/kevin/Desktop/hewson.obj"
+        "https://raw.githubusercontent.com/correlltechnologies/cs460project1/refs/heads/main/webots_ros2_project1_python/worlds/objects/hewson.obj"
       ]
     }
   ]
