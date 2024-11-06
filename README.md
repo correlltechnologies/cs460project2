@@ -2,14 +2,12 @@
 Project 2 - Outdoor Simulated Environment in Webots
 ![Floor Plan](./hewson-mapped.png)
 ## The University of Alabama - Main Campus
--0.5 sq miles\
--Includes Bryant-Denny Stadium\
--Includes Denny Chimes
 
 # Requirements
-Mapped 29,690 sf (First floor)\
-Furnished entire map\
-Added lighting
+-0.5 sq mile total area\
+-1.5 miles of streets\
+-0.5 miles of sidewalks\
+-Appropriate lighting that can be changed to model two times of day
 
 # TO RUN THE PACKAGE
 Check the README.md file in webots_ros2_project2_python\
