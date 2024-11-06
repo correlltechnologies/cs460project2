@@ -1,6 +1,6 @@
 # cs460project2
 Project 2 - Outdoor Simulated Environment in Webots
-![Floor Plan](./hewson-mapped.png)
+![Mapped Environment](./tuscaloosa-mapped.png)
 ## The University of Alabama - Main Campus
 
 # Requirements
