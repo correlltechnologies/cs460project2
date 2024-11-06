@@ -2,7 +2,8 @@
 Project 2 - Outdoor Simulated Environment in Webots
 ![Mapped Environment](./tuscaloosa-mapped.png)
 ## The University of Alabama - Main Campus
-
+![Bryant-Denny](./tuscaloosa-mapped.png)
+![Denny Chimes](./tuscaloosa-mapped.png)
 # Requirements
 -0.5 sq mile total area\
 -1.5 miles of streets\
