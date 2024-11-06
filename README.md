@@ -11,4 +11,4 @@ Project 2 - Outdoor Simulated Environment in Webots
 -Appropriate lighting that can be changed to model two times of day
 
 # TO RUN THE PACKAGE
-Check the README.md file in webots_ros2_project2_python\
+Check the README.md file in webots_ros2_project2_python
