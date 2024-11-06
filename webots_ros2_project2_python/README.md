@@ -1,4 +1,4 @@
-# Project 1 ROS2 Notes
+# Project 2 ROS2 Notes
 
 
 ### TO INSTALL PACKAGE FOR PROJECT
@@ -20,7 +20,7 @@ For example in windows...
 export WEBOTS_HOME=/mnt/c/Program\ Files/Webots
 </pre>
 
-2. Fork your own repository of cs460project1 (using web interface)
+2. Fork your own repository of cs460project2 (using web interface)
 
 3. Clone your fork
 <pre>
@@ -29,7 +29,7 @@ git clone <your github url for this repository>
 
 4. Make the package (for python, it really just installs the files)
 <pre>
-cd cs460project1
+cd cs460project2
 colcon build
 </pre>
 
@@ -47,7 +47,7 @@ source install/setup.bash
 
 6. Start webots simulation with connect back to ROS in the virtual machine
 <pre>
-ros2 launch webots_ros2_project1_python f23_robotics_1_launch.py
+ros2 launch webots_ros2_project2_python f23_robotics_1_launch.py
 </pre>
 
 
@@ -90,6 +90,6 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ### RUN SAMPLE CONTROLLER
 
 <pre>
-ros2 run webots_ros2_project1_python webots_ros2_project1_python
+ros2 run webots_ros2_project2_python webots_ros2_project2_python
 </pre>
 
